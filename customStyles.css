@@ -4,6 +4,11 @@ body {
     font-family:'News Cycle', sans-serif;
 }
 
+.topNav{
+    width: 95vw;
+    z-index: 10;
+}
+
 .mainDisplay {
     height: 300px;
 }
@@ -15,6 +20,10 @@ body {
 
 .mainBackground {
     background-color: rgb(36, 41, 53);
+}
+
+.backButton{
+    padding-top: 20%
 }
 
 .memberInfo {
