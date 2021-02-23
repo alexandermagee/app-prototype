@@ -62,7 +62,8 @@ body {
 }
 
 .seeMoreMembers {
-    background-color: none;
+    border-radius: 10px;
+    font-size: 0.9em;
 }
 
 .activityArea {
